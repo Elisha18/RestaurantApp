@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Elisha18/RestaurantApp.git/static/css/main.fc683296.chunk.css",
+    "main.js": "/Elisha18/RestaurantApp.git/static/js/main.7944959d.chunk.js",
+    "main.js.map": "/Elisha18/RestaurantApp.git/static/js/main.7944959d.chunk.js.map",
+    "runtime-main.js": "/Elisha18/RestaurantApp.git/static/js/runtime-main.56060389.js",
+    "runtime-main.js.map": "/Elisha18/RestaurantApp.git/static/js/runtime-main.56060389.js.map",
+    "static/css/2.5b1a0ff0.chunk.css": "/Elisha18/RestaurantApp.git/static/css/2.5b1a0ff0.chunk.css",
+    "static/js/2.b1309613.chunk.js": "/Elisha18/RestaurantApp.git/static/js/2.b1309613.chunk.js",
+    "static/js/2.b1309613.chunk.js.map": "/Elisha18/RestaurantApp.git/static/js/2.b1309613.chunk.js.map",
+    "index.html": "/Elisha18/RestaurantApp.git/index.html",
+    "precache-manifest.ac24f4e3a10610bbbc8c3c60dc4af8bd.js": "/Elisha18/RestaurantApp.git/precache-manifest.ac24f4e3a10610bbbc8c3c60dc4af8bd.js",
+    "service-worker.js": "/Elisha18/RestaurantApp.git/service-worker.js",
+    "static/css/2.5b1a0ff0.chunk.css.map": "/Elisha18/RestaurantApp.git/static/css/2.5b1a0ff0.chunk.css.map",
+    "static/css/main.fc683296.chunk.css.map": "/Elisha18/RestaurantApp.git/static/css/main.fc683296.chunk.css.map",
+    "static/js/2.b1309613.chunk.js.LICENSE.txt": "/Elisha18/RestaurantApp.git/static/js/2.b1309613.chunk.js.LICENSE.txt",
+    "static/media/card_1.jpg": "/Elisha18/RestaurantApp.git/static/media/card_1.b5066171.jpg",
+    "static/media/card_2.jpg": "/Elisha18/RestaurantApp.git/static/media/card_2.4cd6b9f9.jpg",
+    "static/media/card_3.jpg": "/Elisha18/RestaurantApp.git/static/media/card_3.9eef2f2f.jpg",
+    "static/media/font-awesome.css": "/Elisha18/RestaurantApp.git/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56060389.js",
+    "static/css/2.5b1a0ff0.chunk.css",
+    "static/js/2.b1309613.chunk.js",
+    "static/css/main.fc683296.chunk.css",
+    "static/js/main.7944959d.chunk.js"
+  ]
+}
